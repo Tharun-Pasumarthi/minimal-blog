@@ -1,0 +1,18 @@
+# Node modules in all subfolders
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+*.swp
